@@ -13,16 +13,10 @@ O projeto foi o trabalho de conclusão do módulo que tratava de Banco de Dados 
   
 ## Manual do usuário
 
-- Modelagem física do sistema: 
+- Modelagem física do Banco dados Pesqueiros: 
 
-<img src="https://github.com/Gui-P-Oliveira/Banco-Dados-SQL/blob/90d2a587952155cf071366e06bb2138ad8808410/Modelagem-Banco-de-Dados-Pesqueiros.png" width="800" height="618">  
-
-- Para avaliar a responsividade abra a ferramenta **devtools** (tecla f12 no google chrome)/ **toggle device toolbar**  
-- A ferramenta **Lighthouse** poderá fornecer informações sobre performance, seo, best practices entre outras métricas.  
+<img src="https://github.com/Gui-P-Oliveira/Banco-Dados-SQL/blob/d7fce9145ab108b97425220e5c891477112b9535/Pesqueiros/imgs/Modelagem-Banco-de-Dados-Pesqueiros.png" width="800" height="618">  
 
 ## Próximos passos  
 
-- Melhorar o UX/UI da página.  
-- Melhorar os mecanismos de SEO e Acessibilidade através da semântica no HTML.  
-- Reformular o layout dos itens da página para dispositivos mobile.
 
